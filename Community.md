@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Rishabh Shandilya</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/BlazeBoy22</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/rishabh-shandilya-a261b1258/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Bangalore Institute of Technology</td>
+  </tr>
+</table>
+
